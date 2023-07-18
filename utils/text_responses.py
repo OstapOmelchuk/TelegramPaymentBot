@@ -2,7 +2,7 @@ usdt_trc20_payment_info = """
 You are purchasing a subscription for CryptoStellar Private chat. 🚀🌒🛸
 
 🗓 Selected plan: 1 month.
-💵 Amount to be paid: ➡️ 25 USDT
+💵 Amount to be paid: ➡️ 30 USDT
 🌐 Payment method: ➡️ USDT (TRC20)
 
 To pay for the subscription, transfer the specified amount of usdt to the wallet address below:
